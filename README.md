@@ -50,6 +50,3 @@ Quit checkra1n and at prompt type:
 - Base OS - [Void Linux Team](https://voidlinux.org/)
 - Project - Foxlet ([@FoxletFox](https://twitter.com/foxletfox))
 - Concept - Evan ([@evanhackerman](https://twitter.com/evanhackerman))
-
-
-
